@@ -30,6 +30,7 @@ virtualMachines:
 YAML attributes:
 
 - See variables.tf for all the supported YAML attributes.
+- See [azurerm_virtual_machine](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_machine) for attribute descriptions.
 
 Combine with the following modules to get a complete infrastructure defined by YAML:
 
